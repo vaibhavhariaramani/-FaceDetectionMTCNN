@@ -10,7 +10,7 @@ MTCNN
 Implementation of the MTCNN face detector. It is written from scratch, using as a reference the implementation of
 MTCNN from David Sandberg (`FaceNet's MTCNN <https://github.com/davidsandberg/facenet/tree/master/src/align>`_) in Facenet. It is based on the paper *Zhang, K et al. (2016)* [ZHANG2016]_.
 
- 
+ .. image:: https://raw.githubusercontent.com/vaibhavhariaramani/mtcnn/master/result.jpg width="250"
 
 
 INSTALLATION
@@ -37,4 +37,3 @@ or with `conda`
 
 Note that `tensorflow-gpu` version can be used instead if a GPU device is available on the system, which will speedup the results.
 
-<img src="https://raw.githubusercontent.com/vaibhavhariaramani/FaceDetection/master/images/detected%20face.png" width="250"/> <img src="https://raw.githubusercontent.com/vaibhavhariaramani/FaceDetection/master/images/grey.png" width="250"/> <img src="https://raw.githubusercontent.com/vaibhavhariaramani/FaceDetection/master/images/test6.jpg" width="250"/> 
