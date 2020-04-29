@@ -10,7 +10,7 @@ MTCNN
 Implementation of the MTCNN face detector. It is written from scratch, using as a reference the implementation of
 MTCNN from David Sandberg (`FaceNet's MTCNN <https://github.com/davidsandberg/facenet/tree/master/src/align>`_) in Facenet. It is based on the paper *Zhang, K et al. (2016)* [ZHANG2016]_.
 
- .. image:: https://raw.githubusercontent.com/vaibhavhariaramani/mtcnn/master/result.jpg
+ .. image:: https://github.com/vaibhavhariaramani/-FaceDetectionMTCNN/blob/master/combine.jpeg
 
 
 INSTALLATION
