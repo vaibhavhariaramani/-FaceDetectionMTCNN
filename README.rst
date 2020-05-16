@@ -46,8 +46,10 @@ To learn more about these Resources you can Refer to some of these articles writ
 
 https://sites.google.com/view/geeky-traveller/computer-vision/face-detection-using-mtcnn
 
-### Made with ❤️by Vaibhav Hariramani
-#### About me
+Made with ❤️by Vaibhav Hariramani
+################################# 
+About me
+########
 
 I am an Actions on Google, Internet of things, Alexa Skills, and Image processing developer.
 I have a keen interest in Image processing and Andriod development.
