@@ -1,9 +1,7 @@
 MTCNN
 #####
 
-<img src="https://badge.fury.io/py/mtcnn.svg">
-    :target: https://badge.fury.io/py/mtcnn
-<img src="https://travis-ci.org/ipazc/mtcnn.svg?branch=master">
+<img src="https://badge.fury.io/py/mtcnn.svg"> <img src="https://travis-ci.org/ipazc/mtcnn.svg?branch=master">
     :target: https://travis-ci.org/ipazc/mtcnn
 
 
