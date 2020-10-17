@@ -1,16 +1,16 @@
 MTCNN
 #####
 
-.. image:: https://badge.fury.io/py/mtcnn.svg
+<img src="https://badge.fury.io/py/mtcnn.svg">
     :target: https://badge.fury.io/py/mtcnn
-.. image:: https://travis-ci.org/ipazc/mtcnn.svg?branch=master
+<img src="https://travis-ci.org/ipazc/mtcnn.svg?branch=master">
     :target: https://travis-ci.org/ipazc/mtcnn
 
 
 Implementation of the MTCNN face detector. It is written from scratch, using as a reference the implementation of
 MTCNN from David Sandberg (`FaceNet's MTCNN <https://github.com/davidsandberg/facenet/tree/master/src/align>`_) in Facenet. It is based on the paper *Zhang, K et al. (2016)* [ZHANG2016]_.
 
- .. image:: https://github.com/vaibhavhariaramani/-FaceDetectionMTCNN/blob/master/combine.jpeg
+<img src="https://github.com/vaibhavhariaramani/-FaceDetectionMTCNN/blob/master/combine.jpeg">
 
 
 INSTALLATION
