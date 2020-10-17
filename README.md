@@ -2,7 +2,6 @@ MTCNN
 #####
 
 <img src="https://badge.fury.io/py/mtcnn.svg"> <img src="https://travis-ci.org/ipazc/mtcnn.svg?branch=master">
-    :target: https://travis-ci.org/ipazc/mtcnn
 
 
 Implementation of the MTCNN face detector. It is written from scratch, using as a reference the implementation of
